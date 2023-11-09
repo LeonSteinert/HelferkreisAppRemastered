@@ -1,0 +1,7 @@
+{
+  "name": "Helferkreis-App-Remastered",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
